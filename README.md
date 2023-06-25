@@ -4,4 +4,4 @@ html ve css projesi
 
 <h2>Ekran görüntüsü</h2>
 
-![](Ekran.gif)
+![](developer.gif)
